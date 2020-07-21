@@ -16,4 +16,6 @@ end
 phrase2
 
 def all_phrases
-  puts 
+  puts toadstool
+  puts status
+  puts link
