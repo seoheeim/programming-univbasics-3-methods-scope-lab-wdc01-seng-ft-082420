@@ -19,3 +19,4 @@ def all_phrases
   puts toadstool
   puts status
   puts link
+end 
